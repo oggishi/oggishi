@@ -69,8 +69,3 @@
 
 ---
 
-<div align="center">
-
-⭐️ From [oggishi](https://github.com/oggishi)
-
-</div>
