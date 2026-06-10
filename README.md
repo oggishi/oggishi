@@ -4,7 +4,7 @@
 
 ###  Software Engineering | AI & Machine Learning | NLP | Computer Vision | TTS | Embeddings | IoT
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Node.js;Always+learning+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Software+Developer;React+%7C+TypeScript+%7C+Node.js;Always+learning+something+new" alt="Typing SVG" />
 
 </div>
 
